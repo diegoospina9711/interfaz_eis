@@ -1,0 +1,14 @@
+requisitos EIS
+
+Serial tools
+pandas
+serial
+random
+time
+matplotlib
+asyncio
+csv
+pyqt5
+threading
+queue
+numpy
