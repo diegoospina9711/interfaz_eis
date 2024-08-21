@@ -616,7 +616,7 @@ border: 2px solid gray</string>
                 </spacer>
                </item>
                <item>
-                <widget class="QPushButton" name="envoar_btn">
+                <widget class="QPushButton" name="enviar_btn">
                  <property name="styleSheet">
                   <string notr="true">background-color: rgb(170, 255, 127);</string>
                  </property>
@@ -809,7 +809,7 @@ border: 2px solid gray;</string>
                   </spacer>
                  </item>
                  <item>
-                  <widget class="QPushButton" name="pushButton_13">
+                  <widget class="QPushButton" name="guardar_btn">
                    <property name="text">
                     <string>Guardar Datos</string>
                    </property>
