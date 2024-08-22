@@ -500,7 +500,7 @@ border: 2px solid gray</string>
                 </spacer>
                </item>
                <item>
-                <widget class="QRadioButton" name="uv_radio_btn">
+                <widget class="QCheckBox" name="uv_chek_box">
                  <property name="text">
                   <string>UV</string>
                  </property>
@@ -592,7 +592,7 @@ border: 2px solid gray</string>
                 </spacer>
                </item>
                <item>
-                <widget class="QRadioButton" name="debug_radio_btn">
+                <widget class="QCheckBox" name="debug_radio_btn">
                  <property name="text">
                   <string>DEBUG</string>
                  </property>
